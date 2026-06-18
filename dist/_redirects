@@ -1,0 +1,3 @@
+# Pre-rendered pages are served as static HTML directly
+# SPA fallback for non-prerendered routes (e.g. /resume-keywords/*)
+/*    /index.html   200
